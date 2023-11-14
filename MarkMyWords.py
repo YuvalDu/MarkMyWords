@@ -18,10 +18,10 @@ from zipfile import ZipFile
 from docx.shared import Inches
 
 # Constants
-SERVER_IP = "51.103.219.64"
+SERVER_IP = "1.1.1.1"
 
 # Change path to any .jpg/.png file
-DUMMY_WATERMARK = "EyePic.jpg"
+DUMMY_WATERMARK = "picture.jpg"
 
 
 def create_watermark(file):
